@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/0485-max-consecutive-ones) |
+| [0636-exclusive-time-of-functions](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1441-build-an-array-with-stack-operations) |
@@ -125,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
