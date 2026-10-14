@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Omkar10-cr/https-github.com-Omkar10-cr-leetcode-submission1/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
