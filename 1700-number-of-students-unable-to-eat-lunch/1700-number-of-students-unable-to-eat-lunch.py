@@ -10,4 +10,3 @@ class Solution(object):
             count[sw] -= 1
 
         return 0
-        
